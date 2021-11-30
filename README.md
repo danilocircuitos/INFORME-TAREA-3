@@ -151,7 +151,7 @@ Ejercicios Capitulo 6
 
 4. Video
  
- 
+ https://youtu.be/pyuDPllqMQc
 
 5. Conclusiones
 
